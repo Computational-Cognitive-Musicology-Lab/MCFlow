@@ -5,7 +5,7 @@
 !MC:Tone Lōc	!MC:Tone Lōc	!	!MC:Tone Lōc	!MC:Tone Lōc	!MC:Tone Lōc	!MC:Tone Lōc	!MC:Tone Lōc
 =1	=1	=1	=1	=1	=1	=1	=1
 8	1	.	4	.	wɜ˞	work-	.
-8	0	.	.	.	kən	-in'	.
+8	0	.	.	.	kən	-ing	.
 8.	1	.	.	.	al	all	.
 16	1	.	.	.	wik	week	.
 4.	.	.	.	.	R	.	.
@@ -38,7 +38,7 @@
 4	.	.	.	.	R	.	.
 =5	=5	=5	=5	=5	=5	=5	=5
 8	1	.	3	.	roʊ	ro-	.
-8	0	.	.	.	lIn	-llin'	.
+8	0	.	.	.	lIn	-lling	.
 8	1	.	.	.	daʊn	down	.
 8	0	.	.	.	ðə	the	.
 8	1	.	.	.	strit	street	.
@@ -52,7 +52,7 @@
 8	1	.	.	.	ʃi	she	.
 8	0	.	.	.	wəz	was	.
 8	1	.	.	(D	pəm	pum-	.
-8	0	.	.	d)	pIn	-pin'	.
+8	0	.	.	d)	pIn	-ping	.
 8.	.	.	.	.	R	.	.
 16	0	.	3	.	aI	I	.
 =7	=7	=7	=7	=7	=7	=7	=7
@@ -72,7 +72,7 @@
 8	1	.	.	.	kləb	club	.
 8	0	.	.	.	wəz	was	.
 8	1	.	.	(D	dʒəm	jum-	.
-4	0	.	.	d)	pIn	-pin'	.
+4	0	.	.	d)	pIn	-ping	.
 8	.	.	.	.	R	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
 8	1	.	4	.	In	in-	.
@@ -98,7 +98,7 @@
 8	1	.	.	.	gat	got	.
 8	0	.	.	.	It	it	.
 8	1	.	.	.	goʊ	go-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8.	1	.	.	.	an	on	.
 16	1	.	.	.	beI	ba-	.
 16	0	.	.	.	bi	-by	.
@@ -151,13 +151,13 @@
 *>Verse2	*>Verse2	*>Verse2	*>Verse2	*>Verse2	*>Verse2	*>Verse2	*>Verse2
 =1	=1	=1	=1	=1	=1	=1	=1
 8	1	.	4	.	ʃap	sho-	.
-8	0	.	.	.	In	-ppin'	.
+8	0	.	.	.	In	-pping	.
 8	1	.	.	.	æt	at	.
 16	0	.	.	.	ðə	the	.
 4	1	.	.	.	mal	mall	.
 8.	.	.	.	.	R	.	.
 16	1	.	2	.	lʊ	loo-	.
-16	0	.	.	.	kIn	-kin'	.
+16	0	.	.	.	kIn	-king	.
 =2	=2	=2	=2	=2	=2	=2	=2
 8	1	.	.	.	foʊr	for	.
 8	0	.	.	.	səm	some	.
@@ -307,7 +307,7 @@
 8.	1	.	.	.	fɜkt	-ffect	.
 4	.	.	.	.	R	.	.
 16	1	.	3	.	hæŋ	hang-	.
-16	0	.	.	.	gIn	-in'	.
+16	0	.	.	.	gIn	-ing	.
 =2	=2	=2	=2	=2	=2	=2	=2
 16	1	.	.	.	aʊt	out	.
 8	0	.	.	.	Iz	is	.
@@ -348,7 +348,7 @@
 16	0	.	.	.	eInt	ain't	.
 =6	=6	=6	=6	=6	=6	=6	=6
 8	1	.	.	.	laI	ly-	.
-8	0	.	.	.	In	-in'	.
+8	0	.	.	.	In	-ing	.
 16	1	.	.	.	fɜ	fe-	.
 16	0	.	.	.	ləs	-llas	.
 16	1	.	.	.	ʃi	she	.
@@ -440,19 +440,19 @@
 16	0	.	.	.	di	-dy	.
 8	1	.	.	.	start	start	.
 8	1	.	.	(F	slæp	sla-	.
-8	0	.	.	f)	In	-ppin'	.
+8	0	.	.	f)	In	-pping	.
 =16	=16	=16	=16	=16	=16	=16	=16
 8	.	.	.	.	R	.	.
 8	0	.	2	.	frəm	from	.
 16	1	.	.	.	du	do-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	0	.	.	.	ðə	the	.
 4	1	.	.	.	waIld	wild	.
 4	1	.	.	G	θæŋ	thang	.
 *>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4
 =1	=1	=1	=1	=1	=1	=1	=1
 16	1	.	4	.	du	do-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	ə	a	.
 16	1	.	.	.	lI	li-	.
 8	0	.	.	.	tl	-ttle	.
@@ -600,7 +600,7 @@
 16	0	.	.	.	ðə	the	.
 4	1	.	.	.	waIld	wild	.
 4	1	.	.	D G	θæŋ	thang	.
-!	!	!	!	!	!	!Say what? Yo love you must be kidding You're walkin' babe Just break out of here Hasta la vista baby	!
+!	!	!	!	!	!	!Say what? Yo love you must be kidding You're walking babe Just break out of here Hasta la vista baby	!
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!OTL:Wild Thing
 !!!RTL:Lōc-ed After Dark

@@ -9,7 +9,7 @@
 16	0	.	.	.	ju	you	.
 =1	=1	=1	=1	=1	=1	=1	=1
 8	1	.	.	.	eInt	ain't	.
-8	0	.	.	.	gən	gon'	.
+8	0	.	.	.	gən	gonna	.
 8	1	.	.	.	fək	fuck	.
 8	.	.	.	.	R	.	.
 16	1	.	3	.	bItʃ	bitch	.
@@ -57,7 +57,7 @@
 16	1	.	.	.	eInt	ain't	.
 16	0	.	.	.	gat	got	.
 16	1	.	.	.	nə	no-	.
-16	0	.	.	.	ʔIn	-thin'	.
+16	0	.	.	.	ʔIn	-thing	.
 16	0	.	.	.	ɾə	to	.
 16	1	.	.	(D	wɜ˞	worr-	.
 16	0	.	.	d	i	-y	.
@@ -73,7 +73,7 @@
 16	0	.	.	d)	ɾi	-ty	.
 16	1	.	.	(D	kɜ˞	carr-	.
 16	0	.	.	d	i	-y	.
-16	0	.	.	e	m	'em	.
+16	0	.	.	e	m	them	.
 8.	1	.	.	E)	aʊt	out	.
 16	0	.	3	.	watʃ	watch	.
 8	1	.	.	E	aʊt	out	.
@@ -113,12 +113,12 @@
 16	0	.	.	j	jIn	-ion	.
 8.	1	.	.	K)	trəks	trucks	.
 16	1	.	3	(	lʊ	loo-	.
-8	0	.	.	j)	kIn	-kin'	.
+8	0	.	.	j)	kIn	-king	.
 =10	=10	=10	=10	=10	=10	=10	=10
 16	1	.	.	(	smɜl	smell-	.
-8	0	.	.	j)	In	-in'	.
+8	0	.	.	j)	In	-ing	.
 16	1	.	1	(J	fIl	fee-	.
-16	0	.	.	j)	In	-lin'	.
+16	0	.	.	j)	In	-ling	.
 16	1	.	.	.	laIk	like	.
 16	0	.	.	.	ə	a	.
 8	1	.	.	(J	mIl	mill-	.
@@ -162,7 +162,7 @@
 16	0	.	.	.	aIm	I'm	.
 =14	=14	=14	=14	=14	=14	=14	=14
 16	1	.	.	.	lʊ	loo-	.
-16	0	.	.	.	kIn	-kin'	.
+16	0	.	.	.	kIn	-king	.
 16	1	.	.	.	foʊr	for	.
 16	0	.	.	.	ə	a	.
 8	1	.	.	.	θIk	thick	.
@@ -178,7 +178,7 @@
 16	1	.	.	.	weI	way	.
 16	0	.	.	.	ɾə	to	.
 16	1	.	.	.	gIt	get	.
-16	0	.	.	.	m	'em	.
+16	0	.	.	.	m	them	.
 16	1	.	.	.	aʊ	ou-	.
 16	0	.	.	.	ɾə	-tta	.
 16	0	.	.	.	ðɜm	them	.
@@ -209,7 +209,7 @@
 16	0	.	.	.	mi	-mme	.
 8	1	.	.	(A	si	see	.
 8	1	.	.	B	səm	some-	.
-8	0	.	.	b)	θIn	-thin'	.
+8	0	.	.	b)	θIn	-thing	.
 =2	=2	=2	=2	=2	=2	=2	=2
 16	1	.	3	.	tɜl	tell	.
 16	0	.	.	.	jə	ya	.
@@ -222,7 +222,7 @@
 8	1	.	.	.	kwIt	quit	.
 8	1	.	.	(A	min	mean	.
 16	1	.	.	B	məg	mu-	.
-16	0	.	.	b)	In	-ggin'	.
+16	0	.	.	b)	In	-gging	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aIm	I'm	.
 =3	=3	=3	=3	=3	=3	=3	=3
@@ -260,7 +260,7 @@
 16	0	.	.	(d	gIt	get	.
 8	1	.	.	D)	In	in	.
 16	0	.	3	.	wi	we	.
-8	1	.	.	.	gən	gon'	.
+8	1	.	.	.	gən	gonna	.
 =6	=6	=6	=6	=6	=6	=6	=6
 8	1	.	.	.	rəʃ	rush	.
 16	0	.	.	.	ðə	the	.
@@ -268,7 +268,7 @@
 8	1	.	.	.	doʊr	door	.
 16	0	.	1	.	n	and	.
 8	1	.	.	.	breIk	break	.
-16	0	.	.	(d	m	'em	.
+16	0	.	.	(d	m	them	.
 8	1	.	.	D)	In	in	.
 16	0	.	3	.	ðə	the	.
 16	1	.	.	.	oʊ	own-	.
@@ -278,7 +278,7 @@
 16	1	.	.	.	rɜ	-rea-	.
 16	0	.	.	.	di	-dy	.
 8	1	.	.	.	pIst	pissed	.
-16	1	.	1	.	kəz	'cause	.
+16	1	.	1	.	kəz	because	.
 16	0	.	.	.	wi	we	.
 8	1	.	.	(E	soʊr	sor-	.
 16	0	.	.	e	də	-ta	.
@@ -299,11 +299,11 @@
 =9	=9	=9	=9	=9	=9	=9	=9
 8	1	.	.	.	gəz	girls	.
 16	1	.	.	.	lʊ	loo-	.
-16	0	.	.	.	kIn	-kin'	.
+16	0	.	.	.	kIn	-king	.
 8	1	.	.	.	raIt	right	.
 8	1	.	3	.	səm	some	.
 16	1	.	.	.	lʊ	loo-	.
-16	0	.	.	.	kIn	-kin'	.
+16	0	.	.	.	kIn	-king	.
 16	0	.	.	.	ə	a	.
 8.	1	.	.	K	mɜs	mess	.
 16	0	.	3	.	ðæts	that's	.
@@ -347,10 +347,10 @@
 8.	1	.	.	.	a	ahh	.
 =13	=13	=13	=13	=13	=13	=13	=13
 16	.	.	.	.	R	.	.
-16	0	.	4	.	kə	c'-	.
-8	1	.	.	.	man	-mon	.
+16	0	.	4	.	kə	come	.
+8	1	.	.	.	man	on	.
 16	0	.	.	.	wi	we	.
-8	1	.	.	.	gən	gon'	.
+8	1	.	.	.	gən	gonna	.
 16	1	.	.	(L	par	par-	.
 16	0	.	.	l	ɾi	-ty	.
 16	0	.	.	m	ɾə	to-	.
@@ -442,7 +442,7 @@
 8	1	.	.	.	weI	-way	.
 16	0	.	.	.	frəm	from	.
 16	1	.	.	.	tɜr	tear-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 16	0	.	.	.	ə	da	.
 8	1	.	.	(C	kləb	club	.
 8	0	.	.	c)	əp	up	.
@@ -461,7 +461,7 @@
 16	0	.	.	.	It	it	.
 =6	=6	=6	=6	=6	=6	=6	=6
 8	1	.	.	.	naʊ	now	.
-16	1	.	1	.	kəz	'cause	.
+16	1	.	1	.	kəz	because	.
 16	0	.	.	.	tə	to-	.
 16	1	.	.	.	ma	-morr-	.
 16	0	.	.	.	roʊ	-ow	.
@@ -490,7 +490,7 @@
 16	1	.	.	.	baʊt	bout	.
 16	0	.	.	.	mi	me	.
 16	1	.	.	.	stɜ	ste-	.
-16	0	.	.	.	pIn	-ppin'	.
+16	0	.	.	.	pIn	-pping	.
 8	1	.	.	.	al	all	.
 16	1	.	.	.	oʊ	o-	.
 16	0	.	.	.	vɜ˞	-ver	.

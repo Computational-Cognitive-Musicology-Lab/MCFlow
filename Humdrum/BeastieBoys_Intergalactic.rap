@@ -8,7 +8,7 @@
 4	1	.	4	.	wɜl	well_	wɜl
 4	1	.	.	.	naʊ	now/	naʊ
 =1	=1	=1	=1	=1	=1	=1	=1
-8	1	.	.	.	doʊnt	do'not	.
+8	1	.	.	.	doʊnt	don't	.
 8	.	.	.	.	R	.	.
 8	1	.	.	.	ju	you+	.
 8	0	.	.	.	tɜl	tell^	.
@@ -41,7 +41,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4
 32	1	.	3	.	meI	may-	.
 32	0	.	.	.	bi	-be	.
-16	0	.	.	.	Its	it'is^	.
+16	0	.	.	.	Its	it's^	.
 8	1	.	.	.	bI	be-	.
 16	1	.	.	.	kəz	-cause[	.
 16	0	.	.	.	wir	we're^	.
@@ -115,7 +115,7 @@
 16	1	.	.	.	al	al-	.
 16	0	.	.	.	weIz	-ways	.
 16	1	.	.	.	seI	say-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	maI	my	.
 8	1	.	.	A	staIl	style	staIl
 8	0	.	.	.	Iz	is	.
@@ -135,8 +135,8 @@
 16	0	.	.	.	tə	to	.
 8	1	.	.	.	mi	me	.
 16	.	.	.	.	R	.	.
-16	1	.	.	.	aIm	I'-	.
-16	0	.	.	.	ə	-mma	.
+16	1	.	.	.	aIm	I'm	.
+16	0	.	.	.	ə	gonna	.
 8	1	.	.	.	ræp	rap-	.
 8	0	.	.	.	oʊ	-o-	.
 8	1	.	.	A	faIl	-phile	faIl
@@ -155,7 +155,7 @@
 8	.	.	.	.	R	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
 16	1	.	3	.	kə	Com-	.
-16	0	.	.	.	mIn	-in'	.
+16	0	.	.	.	mIn	-ing	.
 16	1	.	.	.	frəm	from	.
 16	0	.	.	.	jɜ˞	U-	.
 16	1	.	.	.	eI	-ran-	.
@@ -237,11 +237,11 @@
 16	1	.	.	.	kip	keep	.
 16	0	.	.	.	It	it	.
 16	1	.	.	.	goʊ	go-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 16	1	.	2	.	kip	keep	.
 16	0	.	.	.	It	it	.
 16	1	.	.	.	goʊ	go-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	fl	full	fl
 8	1	.	.	A	stim	steam.	stim
 16	0	.	3	.	tʊ	To	.
@@ -274,8 +274,8 @@
 16	0	.	.	.	ðə	the	.
 8	1	.	.	.	wɜ˞ld	world;	.
 16	.	.	.	.	R	.	.
-16	1	.	1	.	aIm	I'-	.
-16	0	.	.	.	ə	-mma	.
+16	1	.	1	.	aIm	I'm	.
+16	0	.	.	.	ə	gonna	.
 8	1	.	.	.	plat	plot	.
 8	0	.	.	.	n	and	.
 8	1	.	.	A	skim	scheme.	.
@@ -293,7 +293,7 @@
 8	.	.	.	.	R	.	klin
 =10	=10	=10	=10	=10	=10	=10	=10
 16	1	.	3	.	goʊ	Go-	.
-16	0	.	.	.	n	-in'	.
+16	0	.	.	.	n	-ing	.
 8	1	.	.	.	ə	to	.
 8	1	.	.	.	ʃaIn	shine	.
 8	0	.	.	.	laIk	like	.
@@ -305,7 +305,7 @@
 8	1	.	3	.	kip	Keep	.
 8	0	.	.	.	an	on	.
 16	1	.	.	.	ræ	ra-	.
-16	0	.	.	.	pIn	-ppin'	.
+16	0	.	.	.	pIn	-pping	.
 8	1	.	.	.	kəz	cause	.
 8	1	.	.	.	ðæts	that's	.
 8	0	.	.	.	maI	my	.
@@ -529,11 +529,11 @@
 16	.	.	.	.	R	.	.
 16	0	.	3	.	jɜ˞	Your	.
 =16	=16	=16	=16	=16	=16	=16	=16
-16	1	.	.	.	niz	knees-	.
-16	0	.	.	.	l	-'ll	.
+16	1	.	.	.	niz	knees	.
+16	0	.	.	.	l	will	.
 8	1	.	.	.	start	start	.
 16	1	.	.	.	ʃeIk	sha-	.
-16	0	.	.	.	In	-kin'	.
+16	0	.	.	.	In	-king	.
 16	1	.	.	.	In	and	.
 16	0	.	.	.	jɜ˞	your	.
 16	1	.	.	.	fIŋ	fing-	.

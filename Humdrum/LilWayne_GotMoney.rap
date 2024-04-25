@@ -9,7 +9,7 @@
 16	0	.	.	.	wəz	was	.
 =1	=1	=1	=1	=1	=1	=1	=1
 16	1	.	.	.	baʊns	boun-	.
-16	0	.	.	.	In	-cin'	.
+16	0	.	.	.	In	-cing	.
 16	1	.	.	.	θru	through	.
 16	0	.	.	.	ðə	the	.
 8.	1	.	.	.	kləb	club	.
@@ -29,7 +29,7 @@
 8	1	.	.	.	bɔI	boy-	.
 8	1	.	.	.	frɜnd	-friend	.
 16	1	.	2	.	heI	ha-	.
-16	0	.	.	.	ʔIn	-tin'	.
+16	0	.	.	.	ʔIn	-ting	.
 16	1	.	.	.	laIk	like	.
 16	0	.	.	.	ə	a	.
 16	1	.	.	(A	sI	ci-	.
@@ -76,7 +76,7 @@
 8	1	.	.	.	æt	at	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aIm	I'm	.
-16	1	.	.	.	traI	tryin'	.
+16	1	.	.	.	traI	trying	.
 16	0	.	.	.	nə	da	.
 16	1	.	.	.	rɜn	run	.
 16	0	.	.	.	It	it	.
@@ -217,11 +217,11 @@
 8.	1	.	.	.	bItʃ	bitch	.
 16	.	.	.	.	R	.	.
 =4	=4	=4	=4	=4	=4	=4	=4
-16	1	.	3	.	aIm	I'-	.
-16	0	.	.	.	ə	-ma	.
+16	1	.	3	.	aIm	I'm	.
+16	0	.	.	.	ə	gonna	.
 8	1	.	.	.	bi	be	.
 16	1	.	.	.	klæp	cla-	.
-16	0	.	.	.	In	-ppin'	.
+16	0	.	.	.	In	-pping	.
 8	1	.	.	.	al	all	.
 16	1	.	.	B	naIt	night	.
 16	0	.	.	.	In	in	.
@@ -247,13 +247,13 @@
 8	.	.	.	.	R	.	.
 8	1	.	3	.	hi	He	.
 8.	1	.	.	.	məg	mu-	.
-16	0	.	.	.	In	-ggin'	.
+16	0	.	.	.	In	-gging	.
 8	.	.	.	.	R	.	.
 8	1	.	3	.	hu	Who	.
 4	1	.	.	D	kɜrz	cares	.
 =8	=8	=8	=8	=8	=8	=8	=8
 16	.	.	.	.	R	.	.
-16	0	.	3	.	kəz	'cause	.
+16	0	.	3	.	kəz	because	.
 8	1	.	.	.	maI	my	.
 4	1	.	.	.	gunz	goons	.
 16	.	.	.	.	R	.	.
@@ -265,7 +265,7 @@
 16	0	.	4	.	laIk	Like	.
 8	1	.	.	.	Its	its	.
 8.	1	.	.	.	nu	no-	.
-8	0	.	.	.	θIn	-thin'	.
+8	0	.	.	.	θIn	-thing	.
 16	.	.	.	.	R	.	.
 16	1	.	3	.	tu	to	.
 16	0	.	.	.	ə	a	.
@@ -400,7 +400,7 @@
 16	1	.	.	.	eInt	ain't	.
 16	.	.	.	.	R	.	.
 16	1	.	.	.	trIk	tri-	.
-16	0	.	.	.	In	-ckin'	.
+16	0	.	.	.	In	-cking	.
 16	1	.	.	.	If	if	.
 16	.	.	.	.	R	.	.
 8	1	.	.	.	ju	you	.
@@ -414,7 +414,7 @@
 16	1	.	.	.	eInt	ain't	.
 16	.	.	.	.	R	.	.
 16	1	.	.	.	fək	fuck-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 16	1	.	.	.	If	if	.
 16	.	.	.	.	R	.	.
 8	1	.	.	.	ju	you	.
@@ -465,7 +465,7 @@
 8	1	.	.	.	bloʊ	blow	.
 8	1	.	.	.	ðæt	that	.
 8	1	.	.	E	ʃIt	shit	.
-8	0	.	3	.	kəz	'Cause	.
+8	0	.	3	.	kəz	Because	.
 =14	=14	=14	=14	=14	=14	=14	=14
 8	1	.	.	E	bItʃ	bitch	.
 16	1	.	.	.	aIm	I'm	.

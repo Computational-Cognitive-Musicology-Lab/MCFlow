@@ -23,8 +23,8 @@
 16	1	.	.	.	ʃIt	shit	.
 16	0	.	.	.	jal	y'all	.
 16	1	.	.	.	ta	tal-	.
-16	0	.	.	.	kIn	-kin'	.
-16	1	.	.	.	baʊt	'bout	.
+16	0	.	.	.	kIn	-king	.
+16	1	.	.	.	baʊt	about	.
 16	.	.	.	.	R	.	.
 16	1	.	1	.	aIm	I'm	.
 16	0	.	.	.	ðə	the	.
@@ -73,7 +73,7 @@
 32	0	.	.	.	Iz	is	.
 16	1	.	.	.	In	en-	.
 16	1	.	.	(C	taIs	-ti-	.
-8	0	.	.	c)	In	-cin'	.
+8	0	.	.	c)	In	-cing	.
 32	.	.	.	.	R	.	.
 32	0	.	3	.	bət	but	.
 16	1	.	.	.	lʊk	look	.
@@ -123,7 +123,7 @@
 16.	1	.	.	.	feIm	fame	.
 16	0	.	1	.	kip	keep	.
 32	1	.	.	.	tʃI	chea-	.
-32	0	.	.	.	ɾIn	-tin'	.
+32	0	.	.	.	ɾIn	-ting	.
 16	0	.	.	.	an	on	.
 16	1	.	.	.	mi	me;	.
 16	.	.	.	.	R	.	.
@@ -241,7 +241,7 @@
 16	1	.	.	D)	wak	walk	.
 8	.	.	.	.	R	.	.
 32	1	.	3	.	si	see	.
-16	0	.	.	.	m	'em	.
+16	0	.	.	.	m	them	.
 16	1	.	.	.	baI	by	.
 32	0	.	.	.	ðə	the	.
 16	1	.	.	(C	koʊr	cor-	.
@@ -262,7 +262,7 @@
 16	1	.	.	.	nəf	-nough	.
 16	0	.	.	.	aIm	I'm	.
 16	1	.	.	.	ka	ca-	.
-32	0	.	.	.	lIn	-llin'	.
+32	0	.	.	.	lIn	-lling	.
 32	0	.	.	.	ðIs	this	.
 8	1	.	.	D	af	off.	.
 =5	=5	=5	=5	=5	=5	=5	=5
@@ -271,21 +271,21 @@
 16	1	.	.	.	fək	fuck	.
 16	0	.	.	.	aIm	I'm	.
 16	1	.	.	(E	kI	ki-	.
-32	0	.	.	e	ʔIn	-ddin'	.
+32	0	.	.	e	ʔIn	-dding	.
 32	1	.	.	F)	ðoʊ	though?;	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aIm	I'm	.
 16	1	.	.	(E	gI	ge-	.
-32	0	.	.	e)	ʔIn	-ttin'	.
+32	0	.	.	e)	ʔIn	-tting	.
 16.	1	.	.	G	haI	high	.
 16	.	.	.	.	R	.	.
 16	1	.	2	(E	sI	si-	.
-32	0	.	.	e	ʔIn	-ttin'	.
+32	0	.	.	e	ʔIn	-tting	.
 16.	1	.	.	F)	loʊ	low.	.
 16	.	.	.	.	R	.	.
 =6	=6	=6	=6	=6	=6	=6	=6
 16	1	.	3	G	slaId	Sli-	.
-32	0	.	.	.	In	-din'	.
+32	0	.	.	.	In	-ding	.
 16	1	.	.	G	baI	by	.
 32	0	.	.	.	In	in	.
 16	1	.	.	.	ðæt	that	.
@@ -348,7 +348,7 @@
 16	1	.	3	J	kæm	ca-	.
 32	0	.	.	.	rə	-mera	.
 16	1	.	.	J	snæp	sna-	.
-32	1	.	.	.	In	-ppin'	.
+32	1	.	.	.	In	-pping	.
 16	0	.	.	.	maI	my	.
 16.	1	.	.	(K	aIz	eyes	.
 16.	0	.	.	I)	hɜ˞t	hurt.	.
@@ -356,7 +356,7 @@
 16	1	.	3	.	nI	Ni-	.
 32	0	.	.	.	gəz	-ggaz	.
 16	1	.	.	.	daI	dy-	.
-32	0	.	.	.	In	-in'	.
+32	0	.	.	.	In	-ing	.
 32	1	.	.	.	bæk	back	.
 32	0	.	.	.	wɜr	where	.
 =10	=10	=10	=10	=10	=10	=10	=10
@@ -436,14 +436,14 @@
 8	.	.	.	.	R	.	.
 8	1	.	3	.	stIl	still	.
 16	1	.	.	(P	gI	ge-	.
-16	0	.	.	p)	ʔIn	-ttin'	.
+16	0	.	.	p)	ʔIn	-tting	.
 16	1	.	.	(P	bIg	bi-	.
 16	0	.	.	p)	ɜ˞	-gger	.
 16	1	.	3	(P	nI	Ni-	.
 16	0	.	.	p)	gə	-gga	.
 =15	=15	=15	=15	=15	=15	=15	=15
 16	1	.	.	(P	lI	li-	.
-16	0	.	.	p	vIn	-vin'	.
+16	0	.	.	p	vIn	-ving	.
 16	0	.	.	o	ðə	the	.
 16	1	.	.	O)	laIf	life;	.
 16	.	.	.	.	R	.	.
@@ -474,7 +474,7 @@
 !	!	!	!	!	!	!*>Bridge	!
 !	!	!	!	!	!	!MC:Justin Timberlake	!
 !	!	!	!	!	!	!You get the air out my lungs whenever you need it.	!
-!	!	!	!	!	!	!And you take the blade right out my heart just so you can watch me bleedin'.	!
+!	!	!	!	!	!	!And you take the blade right out my heart just so you can watch me bleeding.	!
 !	!	!	!	!	!	!I still don't know why don't know why why I love you so much.	!
 !	!	!	!	!	!	!And you play this game in spite to drive me insane.	!
 !	!	!	!	!	!	!I got it tattooed on my sleeve forever in ink with guess whose name.	!

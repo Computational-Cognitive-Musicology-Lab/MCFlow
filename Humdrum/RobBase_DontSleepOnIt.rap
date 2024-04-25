@@ -8,8 +8,8 @@
 8	0	.	4	.	ɜm	em-	.
 =1	=1	=1	=1	=1	=1	=1	=1
 4	1	.	.	.	siz	-cees	.
-16	1	.	3	.	traI	try'-	.
-16	0	.	.	.	nə	-na	.
+16	1	.	3	.	traI	trying	.
+16	0	.	.	.	nə	to	.
 8	0	.	.	.	pleI	play	.
 8	1	.	.	A	poʊst	post	.
 8	.	.	.	.	R	.	.
@@ -46,7 +46,7 @@
 8	1	.	.	.	gɜt	get	.
 8	1	.	.	(B	nir	near	.
 8	0	.	.	b)	mi	me	.
-4	1	.	3	.	kəz	cuz	.
+4	1	.	3	.	kəz	because	.
 =5	=5	=5	=5	=5	=5	=5	=5
 8	1	.	.	.	aIm	I'm	.
 8	1	.	.	.	rab	Rob	.
@@ -94,10 +94,10 @@
 8	0	.	.	.	gɜt	get	.
 4	1	.	.	.	mæd	mad	.
 16	.	.	.	.	R	.	.
-16	0	.	3	.	kəz	cuz	.
+16	0	.	3	.	kəz	because	.
 8	1	.	.	.	aIm	I'm	.
 16	1	.	.	(G	bloʊ	blow-	.
-16	0	.	.	g	In	-in'	.
+16	0	.	.	g	In	-ing	.
 8	0	.	.	E)	əp	up	.
 =10	=10	=10	=10	=10	=10	=10	=10
 16	.	.	.	.	R	.	.
@@ -111,7 +111,7 @@
 8	1	.	.	.	beIs	base	.
 8	0	.	.	.	kips	keeps	.
 16	1	.	.	(G	ʃoʊ	show-	.
-16	0	.	.	g	In	-in'	.
+16	0	.	.	g	In	-ing	.
 8	0	.	.	E)	əp	up	.
 =11	=11	=11	=11	=11	=11	=11	=11
 16	.	.	.	.	R	.	.
@@ -141,7 +141,7 @@
 8	1	.	.	H	lʊk	look	.
 =13	=13	=13	=13	=13	=13	=13	=13
 16	.	.	.	.	R	.	.
-16	0	.	4	.	kəz	cuz	.
+16	0	.	4	.	kəz	because	.
 8	1	.	.	.	aIm	I'm	.
 8	1	.	.	I	min	mean	.
 8	.	.	.	.	R	.	.
@@ -176,7 +176,7 @@
 8	1	.	3	.	nat	not	.
 16	0	.	.	.	kən	con-	.
 8	1	.	.	J	sɜ˞nd	-cerned	.
-16	1	.	3	.	kəz	cuz	.
+16	1	.	3	.	kəz	because	.
 16	0	.	.	.	aIm	I'm	.
 8	1	.	.	.	ʃoʊr	sure	.
 16	1	.	.	.	ðæt	that	.
@@ -239,7 +239,7 @@
 8	.	.	.	.	R	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
 16	.	.	.	.	R	.	.
-16	0	.	3	.	kəz	cuz	.
+16	0	.	3	.	kəz	because	.
 16	1	.	.	.	If	if	.
 16	0	.	.	.	jə	ya	.
 16	1	.	.	.	du	do	.
@@ -268,7 +268,7 @@
 16	1	.	1	.	wət	what	.
 16	0	.	.	.	aI	I	.
 8	1	.	.	A	noʊ	know	.
-16	1	.	1	.	kəz	cuz	.
+16	1	.	1	.	kəz	because	.
 16	0	.	.	.	aIm	I'm	.
 8	1	.	.	.	an	on	.
 16	0	.	.	.	ðə	the	.
@@ -390,7 +390,7 @@
 8	0	.	.	f)	mi	me	.
 =13	=13	=13	=13	=13	=13	=13	=13
 8	1	.	3	(G	kul	coo-	.
-16	0	.	.	g)	In	-lin'	.
+16	0	.	.	g)	In	-ling	.
 16	.	.	.	.	R	.	.
 16	1	.	3	.	neI	ne-	.
 16	0	.	.	.	və	-va	.
@@ -405,12 +405,12 @@
 =14	=14	=14	=14	=14	=14	=14	=14
 16	1	.	.	.	lI	li-	.
 16	0	.	.	.	tl	-ttle	.
-16	0	.	.	.	moʊ	mo'	.
+16	0	.	.	.	moʊ	more	.
 8	1	.	.	.	taIm	time	.
 16	0	.	1	.	aI	I	.
 8	1	.	.	.	bi	be	.
 8	1	.	.	(G	ru	ru-	.
-16	0	.	.	g)	lIn	-lin'	.
+16	0	.	.	g)	lIn	-ling	.
 16	.	.	.	.	R	.	.
 16	1	.	3	.	tIl	tell	.
 16	0	.	.	.	It	it	.
@@ -419,7 +419,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15
 8	1	.	.	H	mæk	mack	.
 8	.	.	.	.	R	.	.
-16	1	.	3	.	kəz	cuz	.
+16	1	.	3	.	kəz	because	.
 16	0	.	.	.	aIm	I'm	.
 8	1	.	.	.	an	on	.
 16	1	.	.	H	wæks	wax	.
@@ -506,7 +506,7 @@
 16	0	.	.	.	It	it	.
 16	0	.	.	.	ə	a-	.
 8	1	.	.	.	loʊn	-lone	.
-16	0	.	1	.	kəz	cuz	.
+16	0	.	1	.	kəz	because	.
 16	1	.	.	.	aIm	I'm	.
 16	0	.	.	.	ə	a	.
 4	1	.	.	B	smæʃ	smash	.
@@ -571,7 +571,7 @@
 8	1	.	.	F	ræg	rag	.
 16	0	.	.	.	ðə	the	.
 8	1	.	.	F	hæd	had	.
-16	0	.	1	.	kəz	cuz	.
+16	0	.	1	.	kəz	because	.
 8	1	.	.	.	aIm	I'm	.
 8	1	.	.	F	ðæt	that	.
 8	1	.	.	F	bæd	bad	.
@@ -580,9 +580,9 @@
 16	0	.	4	.	aIm	I'm	.
 8	1	.	.	.	nat	not	.
 16	1	.	.	.	frən	fron-	.
-8	0	.	.	.	ʔIn	-tin'	.
+8	0	.	.	.	ʔIn	-ting	.
 8	.	.	.	.	R	.	.
-16	0	.	3	.	kəz	cuz	.
+16	0	.	3	.	kəz	because	.
 16	1	.	.	.	ðIs	this	.
 16	0	.	.	.	Iz	is	.
 8	1	.	.	.	maI	my	.
@@ -616,7 +616,7 @@
 16	0	.	3	.	aI	I	.
 8	1	.	.	.	du	do	.
 8	1	.	.	.	ðIs	this	.
-16	1	.	1	.	kəz	cuz	.
+16	1	.	1	.	kəz	because	.
 16	0	.	.	.	aI	I	.
 16	1	.	.	(H	ga	go-	.
 16	0	.	.	h)	ɾə	-tta	.
@@ -653,7 +653,7 @@
 16	0	.	3	.	aI	I	.
 8	1	.	.	.	eInt	ain't	.
 16	1	.	.	.	nə	nu-	.
-8	0	.	.	.	θIn	-thin'	.
+8	0	.	.	.	θIn	-thing	.
 8	.	.	.	.	R	.	.
 16	0	.	3	.	ðæts	that's	.
 8	1	.	.	.	wət	what	.
@@ -673,12 +673,12 @@
 8	1	.	.	K	weI	way	.
 =19	=19	=19	=19	=19	=19	=19	=19
 16	.	.	.	.	R	.	.
-16	0	.	4	.	kəz	cuz	.
+16	0	.	4	.	kəz	because	.
 8	1	.	.	.	aIm	I'm	.
 4	1	.	.	.	rab	Rob	.
 8	1	.	1	.	bət	butt	.
 16	1	.	.	.	kIk	ki-	.
-16	0	.	.	.	In	-ckin'	.
+16	0	.	.	.	In	-cking	.
 8.	1	.	.	L	beIs	Base	.
 16	.	.	.	.	R	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
@@ -714,8 +714,8 @@
 16	1	.	.	.	slip	sleep	.
 8	0	.	.	.	an	on	.
 8	1	.	.	M	ðIs	this	.
-16	0	.	0	.	kə	c'-	.
-8	1	.	.	.	man	-mon	.
+16	0	.	0	.	kə	come	.
+8	1	.	.	.	man	on	.
 *>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4	*>Verse4
 =1	=1	=1	=1	=1	=1	=1	=1
 16	1	.	4	(A	hI	hit	.
@@ -737,12 +737,12 @@
 16	0	.	.	.	fə	for-	.
 16	1	.	.	(A	gI	-get	.
 16	0	.	.	a)	ɾIt	it	.
-16	1	.	3	.	kəz	cuz	.
+16	1	.	3	.	kəz	because	.
 16	0	.	.	.	aI	I	.
 16	1	.	.	.	noʊ	know	.
 16	0	.	.	.	ju	you	.
 8	1	.	.	.	eInt	ain't	.
-16	1	.	.	(A	wI	wit'	.
+16	1	.	.	(A	wI	with	.
 16	0	.	.	a)	ɾIt	it	.
 8	.	.	.	.	R	.	.
 =3	=3	=3	=3	=3	=3	=3	=3
@@ -750,7 +750,7 @@
 8	1	.	4	.	In	in	.
 16	0	.	.	.	ðə	the	.
 8	1	.	.	(B	sIn	cen-	.
-8	0	.	.	b)	tə	-tre	.
+8	0	.	.	b)	tə	-ter	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aI	I	.
 16	1	.	.	.	dI	di-	.
@@ -760,7 +760,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4
 16	.	.	.	.	R	.	.
 8	1	.	3	.	sæt	sat	.
-16	0	.	.	.	tʃə	cha	.
+16	0	.	.	.	tʃə	your	.
 8	1	.	.	.	bət	butt	.
 16	1	.	.	.	In	in	.
 16	0	.	.	.	ðə	the	.
@@ -844,13 +844,13 @@
 16	0	.	3	.	It	it	.
 8	1	.	.	.	eInt	ain't	.
 16	1	.	.	.	nə	nu-	.
-16	0	.	.	.	θIn	-thin'	.
+16	0	.	.	.	θIn	-thing	.
 16	0	.	.	.	tə	to	.
 8	1	.	.	[F	mi	me	.
 16	1	.	3	.	oʊr	or	.
 16	0	.	.	(F	i	E	.
 8	1	.	.	F)]	zi	Z	.
-16	0	.	3	.	kəz	cuz	.
+16	0	.	3	.	kəz	because	.
 16	1	.	.	.	aIm	I'm	.
 16	0	.	.	.	ðə	the	.
 =12	=12	=12	=12	=12	=12	=12	=12
@@ -904,8 +904,8 @@
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aIm	I'm	.
 8	1	.	.	.	nat	not	.
-16	1	.	.	.	traI	try'-	.
-16	0	.	.	.	nə	-na	.
+16	1	.	.	.	traI	trying	.
+16	0	.	.	.	nə	to	.
 16	0	.	.	.	kən	con-	.
 8	1	.	.	.	fjuz	-fuse	.
 16	0	.	.	.	jə	your	.
@@ -914,7 +914,7 @@
 16	0	.	3	.	aIm	I'm	.
 8	1	.	.	.	dʒəst	just	.
 =17	=17	=17	=17	=17	=17	=17	=17
-8	1	.	.	G	traIn	tryin'	.
+8	1	.	.	G	traIn	trying	.
 16	0	.	.	.	ɾə	to	.
 8	1	.	.	.	pəmp	pump	.
 8	1	.	.	.	ðIs	this	.
@@ -941,13 +941,13 @@
 16	0	.	1	.	soʊ	so	.
 16	1	.	.	.	lɜts	let's	.
 8.	1	.	.	H	goʊ	go	.
-16	1	.	0	.	kə	c'-	.
-8.	0	.	.	.	man	-mon	.
+16	1	.	0	.	kə	come	.
+8.	0	.	.	.	man	on	.
 16	.	.	.	.	R	.	.
 !	!	!	!	!	!	!*>Outro	!
 !	!	!	!	!	!	!Now E Z Rock, you remember how we did it before	!
 !	!	!	!	!	!	!I want you to do it one more time, for ya mind	!
-!	!	!	!	!	!	!1 2 3, give it to 'em	!
+!	!	!	!	!	!	!1 2 3, give it to them	!
 !	!	!	!	!	!	!If it's not 	!
 !	!	!	!	!	!	!Don't sleep on it, come on!	!
 !	!	!	!	!	!	!If it, if it, if it's not 	!

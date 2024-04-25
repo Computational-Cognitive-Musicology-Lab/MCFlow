@@ -12,7 +12,7 @@
 16	1	.	.	.	bal	ball	.
 16	1	.	.	.	soʊ	so	.
 16	1	.	.	.	hard	hard	.
-32	1	.	.	.	mə	muh'-	.
+32	1	.	.	.	mə	moth-	.
 32	0	.	.	.	ɜ˞	-er-	.
 32	1	.	.	.	fək	fu-	.
 32	0	.	.	.	ɜ˞z	-ckers	.
@@ -36,7 +36,7 @@
 16	1	.	.	.	grænd	grand	.
 32	1	.	.	.	tu	to	.
 32	0	.	.	.	ə	a	.
-32	1	.	.	.	mə	muh'-	.
+32	1	.	.	.	mə	moth-	.
 32	0	.	.	.	ɜ˞	-er-	.
 32	1	.	.	.	fək	fu-	.
 32	0	.	.	.	ɜ˞	-cker	.
@@ -171,7 +171,7 @@
 16.	1	.	.	.	marz	-mars	.
 16	1	.	1	.	ðæts	that's	.
 16	1	.	.	.	luz	lo-	.
-32	0	.	.	.	In	-sin''	.
+32	0	.	.	.	In	-sing	.
 16.	1	.	.	N	taIm	time	.
 16	.	.	.	.	R	.	.
 32	1	.	3	.	hI	hi-	.
@@ -215,7 +215,7 @@
 32	1	.	.	.	pɜr	Par-	.
 16	0	.	.	.	Is	-is	.
 32	0	.	.	.	gI	ge-	.
-32	0	.	.	.	ɾIn	-ttin'	.
+32	0	.	.	.	ɾIn	-tting	.
 16	1	.	.	(L	fəkt	fucked	.
 16	0	.	.	o	əp	up	.
 16	1	.	.	O)	tu	too.	.
@@ -246,7 +246,7 @@
 16	0	.	.	s)	dlz	-dels	.
 32	.	.	.	.	R	.	.
 16	1	.	3	.	spIl	spi-	.
-32	0	.	.	.	In	-llin'	.
+32	0	.	.	.	In	-lling	.
 16	1	.	.	P	eIs	Ace	.
 32	0	.	.	.	an	on	.
 16	1	.	.	.	maI	my	.
@@ -276,7 +276,7 @@
 32	.	.	.	.	R	.	.
 32	0	.	3	.	aIm	I'm	.
 32	1	.	.	.	muv	mo-	.
-32	0	.	.	.	In	-vin'	.
+32	0	.	.	.	In	-ving	.
 32	0	.	.	.	ðə	the	.
 16.	1	.	.	.	nɜts	Nets	.
 16	.	.	.	.	R	.	.
@@ -307,7 +307,7 @@
 16	1	.	.	.	nid	need	.
 16	0	.	.	.	ɾʊ	to	.
 8	1	.	.	A	kral	crawl	.
-16	1	.	.	.	foʊr	'fore	.
+16	1	.	.	.	foʊr	before	.
 16	0	.	.	.	ju	you	.
 32%9	1	.	.	A	bal	ball.	.
 =3	=3	=3	=3	=3	=3	=3	=3
@@ -420,7 +420,7 @@
 16	1	.	.	C	dæns	dance-	.
 16	.	.	.	.	R	.	.
 =10	=10	=10	=10	=10	=10	=10	=10
-16	1	.	3	.	skjuz	'xcuse	.
+16	1	.	3	.	skjuz	excuse	.
 16	0	.	.	.	maI	my	.
 16.	1	.	.	.	frɜntʃ	French	.
 32	0	.	1	.	bət	but	.
@@ -431,7 +431,7 @@
 16	1	.	3	.	aIm	I'm	.
 16	0	.	.	.	dʒəst	just	.
 16.	1	.	.	C	seI	say-	.
-32	0	.	.	.	In	-in'	.
+32	0	.	.	.	In	-ing	.
 =11	=11	=11	=11	=11	=11	=11	=11
 16	.	.	.	.	R	.	.
 8	1	.	4	.	prIns	Prince	.
@@ -448,7 +448,7 @@
 16	1	.	.	E)	mi	me;	.
 =12	=12	=12	=12	=12	=12	=12	=12
 16	.	.	.	.	R	.	.
-16	0	.	3	.	kəz	'Cause	.
+16	0	.	3	.	kəz	Because	.
 16	1	.	.	.	aI	I	.
 16	0	.	.	.	wəz	was	.
 16	1	.	.	.	hIm	him	.
@@ -500,7 +500,7 @@
 16	1	.	.	(H	I	i-	.
 16	0	.	.	h)	lIst	-llest	.
 16	.	.	.	.	R	.	.
-16	1	.	3	.	kəz	'cause	.
+16	1	.	3	.	kəz	because	.
 16	0	.	.	.	aIm	I'm	.
 16	1	.	.	.	sə	su-	.
 16	0	.	.	.	frIn	-ffer	.
@@ -520,7 +520,7 @@
 16	1	.	3	.	ænd	and	.
 16	0	.	.	.	ðeI	they	.
 16	1	.	.	.	goʊ	go-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 16	0	.	.	.	gə	go-	.
 16	1	.	.	(H	rI	-ri-	.
 16	0	.	.	h)	lIz	-llas	.
@@ -535,7 +535,7 @@
 =1	=1	=1	=1	=1	=1	=1	=1
 16.	1	.	.	.	naʊ	now	.
 16	1	.	.	.	wa	wa-	.
-32	0	.	.	.	tʃIn	-tchin'	.
+32	0	.	.	.	tʃIn	-tching	.
 16	1	.	.	.	ə	the	.
 8	1	.	.	A	θroʊn	throne.	.
 16	.	.	.	.	R	.	.
@@ -571,10 +571,10 @@
 16	1	.	.	.	nI	ni-	.
 32	0	.	.	.	gəz	-ggaz	.
 16	1	.	.	.	Iz	is	.
-8	1	.	.	C	laIn	lyin'.	.
+8	1	.	.	C	laIn	lying.	.
 16	.	.	.	.	R	.	.
 32	1	.	3	.	æk	Ac-	.
-32	0	.	.	.	In	-tin'	.
+32	0	.	.	.	In	-ting	.
 16	1	.	.	.	laIk	like	.
 32	0	.	.	.	ðə	the	.
 16	1	.	.	.	sə	su-	.
@@ -643,7 +643,7 @@
 16	1	.	.	.	In	in	.
 16	0	.	.	.	ðə	the	.
 16	1	.	.	(D	bIld	buil-	.
-16	0	.	.	d)	In	-din'	.
+16	0	.	.	d)	In	-ding	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	ðeI	They	.
 16	1	.	.	.	hændz	hands	.
@@ -651,13 +651,13 @@
 16	1	.	.	.	tʊ	to	.
 16	0	.	.	.	ðə	the	.
 16	1	.	.	(D	sI	cei-	.
-16	0	.	.	d)	lIn	-lin'	.
+16	0	.	.	d)	lIn	-ling	.
 16	.	.	.	.	R	.	.
 16	0	.	3	.	aI	I	.
 =8	=8	=8	=8	=8	=8	=8	=8
 16	1	.	.	.	noʊ	know	.
 16	0	.	.	.	aIm	I'm	.
-16	1	.	.	.	baʊ	'bout	.
+16	1	.	.	.	baʊ	about	.
 16	0	.	.	.	tə	to	.
 16	1	.	.	(D	kIl	kill	.
 16	0	.	.	d)	It	it;	.
@@ -669,13 +669,13 @@
 16	1	.	.	.	gat	got	.
 16	0	.	.	.	ðæt	that	.
 16	1	.	.	(D	fIl	fee-	.
-16	0	.	.	d)	Iŋ	-lin'	.
+16	0	.	.	d)	Iŋ	-ling	.
 16	1	.	3	.	ju	.	.
 16	0	.	.	.	ar	are	.
 =9	=9	=9	=9	=9	=9	=9	=9
 16.	1	.	.	.	naʊ	now	.
 16	1	.	.	.	wa	wa-	.
-32	0	.	.	.	tʃIn	-tchin'	.
+32	0	.	.	.	tʃIn	-tching	.
 16	1	.	.	.	ə	the	.
 8	1	.	.	A	θroʊn	throne.	.
 16	.	.	.	.	R	.	.

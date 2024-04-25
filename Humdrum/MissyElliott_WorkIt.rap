@@ -48,7 +48,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4
 8	1	.	.	.	gɜ˞l	girl	.
 16	1	.	.	.	ækt	act-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	stæŋk	stank	.
 8	1	.	.	.	ðIn	than	.
 16	1	.	.	.	kal	call	.
@@ -114,8 +114,8 @@
 16	1	.	.	.	In	and	.
 16	0	.	.	.	maI	my	.
 8	1	.	.	(C	tIps	tips	.
-8	1	.	.	A	doʊnt	don-	.
-8	1	.	.	B)	tʃa	-'tcha	.
+8	1	.	.	A	doʊnt	don't	.
+8	1	.	.	B)	tʃa	you	.
 8	.	.	.	.	R	.	.
 =10	=10	=10	=10	=10	=10	=10	=10
 8	1	.	3	.	si	see	.
@@ -124,8 +124,8 @@
 16	1	.	.	.	In	and	.
 16	0	.	.	.	maI	my	.
 8	1	.	.	(C	lIps	lips	.
-8	1	.	.	A	doʊnt	don-	.
-8	1	.	.	B)	tʃa	-'tcha	.
+8	1	.	.	A	doʊnt	don't	.
+8	1	.	.	B)	tʃa	you	.
 8	.	.	.	.	R	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
 16	1	.	3	.	last	lost	.
@@ -263,7 +263,7 @@
 16	0	.	.	.	vI	-ve-	.
 8	1	.	.	.	dir	-dere	.
 16	1	.	.	.	pleI	play-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	trIks	tricks	.
 8	1	.	.	.	an	on	.
 8	1	.	.	C	ja	ya	.
@@ -473,7 +473,7 @@
 8	1	.	.	.	faIv	five	.
 8	0	.	.	.	oʊr	or	.
 16	1	.	.	.	ʃeIk	sha-	.
-16	0	.	.	.	In	-kin'	.
+16	0	.	.	.	In	-king	.
 16	0	.	.	.	jə	ya	.
 8.	1	.	.	B	æs	ass	.
 8	.	.	.	.	R	.	.
@@ -500,7 +500,7 @@
 8	.	.	.	.	R	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
 8	1	.	3	.	dʒəst	just	.
-16	1	.	.	.	kəz	'cause	.
+16	1	.	.	.	kəz	because	.
 16	0	.	.	.	aI	I	.
 16	1	.	.	.	ga	got	.
 16	0	.	.	.	ɾə	a	.
@@ -538,7 +538,7 @@
 16	0	.	.	.	tʃə	-ture	.
 8	1	.	.	.	blæk	black	.
 16	1	.	.	.	seI	say-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	oʊ	oh	.
 16	1	.	.	.	jɜs	ye-	.
 16	0	.	.	.	sə	-ssuh	.
@@ -548,10 +548,10 @@
 =13	=13	=13	=13	=13	=13	=13	=13
 16	1	.	3	.	pIk	pic-	.
 16	0	.	.	.	tʃə	-ture	.
-8	1	.	.	.	lIl	lil'	.
+8	1	.	.	.	lIl	little	.
 8	1	.	.	.	kIm	kim	.
 16	1	.	.	.	deI	da-	.
-8	0	.	.	.	ɾIŋ	-tin'	.
+8	0	.	.	.	ɾIŋ	-ting	.
 16	0	.	.	.	ə	a	.
 8	1	.	.	(F	pæs	pas-	.
 8.	1	.	.	E)	ɾa	-tor	.

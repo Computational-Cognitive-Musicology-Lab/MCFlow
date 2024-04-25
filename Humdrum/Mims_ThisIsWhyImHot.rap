@@ -24,7 +24,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2
 8	1	.	.	.	mIl	mill+	.
 16	1	.	.	.	seI	say-	.
-16	0	.	.	.	In	-in'^	.
+16	0	.	.	.	In	-ing^	.
 16	1	.	.	.	nə	no-	.
 16	0	.	.	.	θIn	-thing|	.
 16	1	.	.	.	an	on<	.
@@ -55,8 +55,8 @@
 8	1	.	.	.	last	lost	.
 16	0	.	.	.	It	it	.
 16	0	.	.	.	soʊ	so	.
-16	1	.	.	.	aIm	I'-	.
-16	0	.	.	.	ə	-mma	.
+16	1	.	.	.	aIm	I'm	.
+16	0	.	.	.	ə	gonna	.
 16	1	.	.	.	brIŋ	bring	.
 16	0	.	.	.	It	it	.
 8	1	.	.	A	bæk	back.	.
@@ -69,7 +69,7 @@
 =5	=5	=5	=5	=5	=5	=5	=5
 8	1	.	.	.	dɜ˞	dir-	.
 16	0	.	.	.	ɾi	-ty,	.
-16	0	.	3	.	kəz	'Cause	.
+16	0	.	3	.	kəz	Because	.
 16	1	.	.	.	nI	ni-	.
 16	0	.	.	.	gəz	-ggas	.
 16	1	.	.	.	ʃoʊ	show	.
@@ -114,7 +114,7 @@
 16	.	.	.	.	R	.	.
 16	0	.	.	.	aI	I	.
 16	1	.	.	.	watʃ	watch	.
-16	0	.	.	.	m	'em	.
+16	0	.	.	.	m	them	.
 16	1	.	.	.	gI	get	.
 16	0	.	.	.	ɾIt	it	.
 16	1	.	.	.	an	on	.
@@ -306,7 +306,7 @@
 16	1	.	.	.	In	in-	.
 16	0	.	.	.	ɾə	-to	.
 16	1	.	.	.	ʃə	shu-	.
-16	0	.	.	.	ʔIn	-ttin'	.
+16	0	.	.	.	ʔIn	-tting	.
 =6	=6	=6	=6	=6	=6	=6	=6
 8	1	.	.	A	starz	stores	.
 8	1	.	.	.	daʊn	down	.
@@ -380,7 +380,7 @@
 16	1	.	3	.	si	see	.
 16	0	.	.	.	maI	my	.
 16	1	.	.	(C	pIm	pimp-	.
-16	0	.	.	c)	pIn	-in'	.
+16	0	.	.	c)	pIn	-ing	.
 16	1	.	.	.	nɜ	ne-	.
 16	0	.	.	.	vɜ˞	-ver	.
 8	1	.	.	D	dræg	dragged	.
@@ -595,7 +595,7 @@
 16	0	.	.	.	ðə	the	.
 8.	1	.	.	C	tʃarm	charm	.
 16	1	.	3	.	hæŋ	hang-	.
-16	0	.	.	.	In	-in'	.
+16	0	.	.	.	In	-ing	.
 8	1	.	.	.	frəm	from	.
 16	0	.	.	.	ðə	the	.
 =10	=10	=10	=10	=10	=10	=10	=10
@@ -676,10 +676,10 @@
 16	1	.	3	.	sIm	si-	.
 16	0	.	.	.	lɜ˞	-mi-	.
 16	0	.	.	.	tʊ	-lar	.
-8	1	.	.	.	lIl	lil'	.
+8	1	.	.	.	lIl	little	.
 =16	=16	=16	=16	=16	=16	=16	=16
 8.	1	.	.	.	wiz	weez	.
-16	1	.	.	.	kəz	coz	.
+16	1	.	.	.	kəz	because	.
 16	0	.	.	.	aI	I	.
 8	1	.	.	.	gat	got	.
 16	0	.	.	.	ðə	the	.
